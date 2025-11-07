@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus_digital_healthcare_in_taiwan=globalThis.webpackChunkdocusaurus_digital_healthcare_in_taiwan||[]).push([[235],{8552:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
